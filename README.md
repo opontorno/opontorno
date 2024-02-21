@@ -29,9 +29,9 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white&style=flat)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black&style=flat)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white&style=flat)
-![TensorFlow](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Tensorflows&logoColor=white&style=flat)
+![TensorFlow](https://img.shields.io/badge/Tensorflow-%23D00000.svg?style=for-the-badge&logo=Tensorflows&logoColor=white&style=flat)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&style=flat)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white&style=flat)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white&style=flat)
-![PyCharm](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=pycharm&logoColor=white&style=flat)
+![PyCharm](https://img.shields.io/badge/PyCharm-4285F4?style=for-the-badge&logo=pycharm&logoColor=white&style=flat)

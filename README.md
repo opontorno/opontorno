@@ -6,11 +6,12 @@
 
 ## Research interests
 
-![Artificial Intelligence](https://img.shields.io/badge/Natural%20Language%20Processing-96BE25?style=for-the-badge&logoColor=white&style=flat)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-96BE25?style=for-the-badge&logoColor=white&style=flat)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-96BE25?style=for-the-badge&logoColor=white&style=flat)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-96BE25?style=for-the-badge&logoColor=white&style=flat)
-![Deepfakes](https://img.shields.io/badge/Natural%20Language%20Processing-96BE25?style=for-the-badge&logoColor=white&style=flat)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-96BE25?style=for-the-badge&logoColor=white&style=flat)
 ![AI for Health](https://img.shields.io/badge/AI%20for%20Health-96BE25?style=for-the-badge&logoColor=white&style=flat)
+![Deepfakes](https://img.shields.io/badge/Deepfakes-96BE25?style=for-the-badge&logoColor=white&style=flat)
 
 
 ## Languages, frameworks and others

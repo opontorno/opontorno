@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">Orazio Pontorno</h1>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=opon13&show_icons=true&theme=merko"/></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=opontorno&show_icons=true&theme=merko"/></div>
 </br>
 
 
@@ -10,7 +10,7 @@
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-96BE25?style=for-the-badge&logoColor=white&style=flat)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-96BE25?style=for-the-badge&logoColor=white&style=flat)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-96BE25?style=for-the-badge&logoColor=white&style=flat)
-![AI for Health](https://img.shields.io/badge/AI%20for%20Health-96BE25?style=for-the-badge&logoColor=white&style=flat)
+![AI for Neuroscience](https://img.shields.io/badge/AI%20for%20Health-96BE25?style=for-the-badge&logoColor=white&style=flat)
 ![Deepfakes](https://img.shields.io/badge/Deepfakes-96BE25?style=for-the-badge&logoColor=white&style=flat)
 
 
